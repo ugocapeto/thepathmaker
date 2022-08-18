@@ -1,0 +1,6 @@
+source_image.png
+sample.tsp
+sample.cyc
+output_image.png
+1
+3
